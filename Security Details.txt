@@ -1,0 +1,28 @@
+Issued To:
+	
+	Common Name(CN)		skye8.tech
+	Organization		<Not Part Of Certificate>
+	Organizational Unit(OU) <Not Part Of Certificate>
+
+
+
+Issued By
+	
+	Common Name(CN)		R3
+	Organization(O) 	Let's Encrypt
+	Organizational Unit(OU) <Not Part Of Certificate>
+
+
+Validity Period
+	
+	Issued On 		Friday, August 4, 2023 at 5:00:36 PM
+	Expires On		Thursday, November 2, 2023 at 5:00:35 PM
+
+
+Fingerprints
+	
+	SHA-256 Fingerprint	39 11 7C 4D 59 C2 1C 4C 53 48 55 A8 B7 C0 12 7C
+				BC B0 4F E5 67 54 33 4A 00 B9 D5 79 27 29 7B 19
+	SHA-1 Fingerprint	6C A8 6D 7B AE 15 D5 BA C2 9D 47 94 1D A9 FC 82
+				4B 98 29 1E
+				
